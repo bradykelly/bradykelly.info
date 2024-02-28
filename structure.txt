@@ -1,0 +1,30 @@
+Folder PATH listing for volume OS
+Volume serial number is 4E91-69A8
+C:.
+¦   .gitignore
+¦   package-lock.json
+¦   package.json
+¦   structure.txt
+¦   
++---.vuepress
+¦       config.ts
+¦       
++---docs
+    ¦   config.md
+    ¦   index.md
+    ¦   README.md
+    ¦   
+    +---.vuepress
+    ¦   ¦   config.js
+    ¦   ¦   
+    ¦   +---components
+    ¦   ¦       counter.vue
+    ¦   ¦       
+    ¦   +---styles
+    ¦           pallette.styl
+    ¦           
+    +---counter
+            README.md
+            see-also.md
+            usage.md
+            
